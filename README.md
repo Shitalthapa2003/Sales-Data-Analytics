@@ -47,9 +47,10 @@ This project focuses on analyzing sales data to understand business performance,
 
 ## Project Files
 
-- `cleaned_sales_data.csv` — Cleaned dataset used for analysis
-- `Sales Dashboard.pbix` — Power BI dashboard file, if included in the repository
-- `README.md` — Project documentation
+- `cleaned_sales_data.csv` — Cleaned dataset used for analysis.
+- `Sales Dashboard.pbix` — Power BI dashboard file, if included in the repository.
+- `Sales Data Analysis.ipynb` — Jupyter Notebook containing Python code for data cleaning, analysis, and visualization.
+- `README.md` — Project documentation.
 
 ## Conclusion
 
